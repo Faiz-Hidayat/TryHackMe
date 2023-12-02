@@ -27,7 +27,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 - [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
-- [🔴] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private
+- [🔴] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) (Private)
 
 **Introductory CTFs to get your feet wet**
 - [ ] [OHsint](https://tryhackme.com/room/ohsint)
@@ -79,7 +79,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [🔴] [CC Ghidra](https://tryhackme.com/room/ccghidra) (Private)
 - [🔴] [CC Radare2](https://tryhackme.com/room/ccradare2) (Private)
 - [🔴] [CC Steganography](https://tryhackme.com/room/ccstego) (Private)
-- [🔴] [Reverse Engineering](https://tryhackme.com/room/reverseengineering) (Private)
+- [ ] [Reverse Engineering](https://tryhackme.com/room/reverseengineering) (Private)
 - [ ] [Reversing ELF](https://tryhackme.com/room/reverselfiles)
 - [ ] [Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 - [ ] [Brainpam 1](https://tryhackme.com/room/brainpan)
